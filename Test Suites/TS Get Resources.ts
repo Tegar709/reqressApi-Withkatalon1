@@ -106,7 +106,7 @@
       <guid>32c1225a-fc8c-4774-8aeb-07c260be6124</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Get Resources/Get Resources by ID 12345 Not Found</testCaseId>
+      <testCaseId>Test Cases/Get Resources/Get Resources by ID 9999 Not Found</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

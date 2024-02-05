@@ -18,13 +18,13 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import groovy.json.JsonSlurper as JsonSlurper
 
-Response = WS.sendRequest(findTestObject('Get User/Get User by ID/Get User by ID 12345 Not Found'))
+Response = WS.sendRequest(findTestObject('Get User/Get User by ID/Get User by ID 9999 Not Found'))
 
 Response_Code = WS.getResponseStatusCode(Response)
 
-if (Response_Code==404) {
-    WS.verifyResponseStatusCode(Response, 404)
+if (Response_Code == 404) {
+    WS.verifyResponseStatusCode(Response_Code, 404)
 } else {
-    WS.verifyResponseStatusCode(Response, 200)
+    WS.verifyResponseStatusCode(Response_Code, 200)
 }
 

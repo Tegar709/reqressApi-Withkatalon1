@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import groovy.json.JsonSlurper as JsonSlurper
 
-Response = WS.sendRequest(findTestObject('Get Resource/Get Resource by ID 12345 Not Found'))
+Response = WS.sendRequest(findTestObject('Get Resource/Get Resource by ID 9999 Not Found'))
 
 WS.verifyResponseStatusCode(Response, 404)
 

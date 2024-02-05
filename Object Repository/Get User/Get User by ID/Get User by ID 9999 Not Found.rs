@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>Get Resource by ID 12345 Not Found</name>
+   <name>Get User by ID 9999 Not Found</name>
    <tag></tag>
-   <elementGuidId>860f10ad-c88d-4e6d-aa21-b44aa18a334c</elementGuidId>
+   <elementGuidId>ec399898-98f2-4682-983e-7331d29f229f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
    <connectionTimeout>0</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
@@ -15,7 +16,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://reqres.in/api/unknown?id=12345</restUrl>
+   <restUrl>https://reqres.in/api/users/?id=9999</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
