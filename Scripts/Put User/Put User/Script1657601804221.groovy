@@ -21,7 +21,7 @@ Response = WS.sendRequest(findTestObject('Put User/Put User'))
 
 WS.verifyResponseStatusCode(Response, 200)
 
-WS.verifyElementPropertyValue(Response, 'name', 'kikiw')
+WS.verifyElementPropertyValue(Response, 'name', 'Arkan')
 
-WS.verifyElementPropertyValue(Response, 'job', 'president')
+WS.verifyElementPropertyValue(Response, 'job', 'Villager')
 

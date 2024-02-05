@@ -99,7 +99,7 @@
       <guid>4d8c020d-586b-45bd-990a-625f20dd05ef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Get User/Get User by ID/Get User by ID 12345 Not Found</testCaseId>
+      <testCaseId>Test Cases/Get User/Get User by ID/Get User by ID 9999 Not Found</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

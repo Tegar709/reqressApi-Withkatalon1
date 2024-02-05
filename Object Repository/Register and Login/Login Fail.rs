@@ -6,11 +6,12 @@
    <elementGuidId>f58e4e06-4820-4cdd-9859-9e3fb57a31b7</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>false</autoUpdateContent>
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;email\&quot;: \&quot;arrifqi@gmail.com\&quot;,\n    \&quot;password\&quot;: \&quot;arrifqi123\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n    \&quot;email\&quot;: \&quot;arkan@gmail.com\&quot;,\n    \&quot;password\&quot;: \&quot;Arkan123\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
