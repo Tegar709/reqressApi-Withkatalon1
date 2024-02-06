@@ -37,5 +37,5 @@ This project tests the user management functionalities of the Reqress API using 
 * View detailed reports in Katalon Studio.
 
   
-![Screenshot Test Suite All Test Case](Screenshot/Test Suite All Test Case.png)  *This screenshot illustrates the overall test results, highlighting key metrics such as pass/fail rates and any notable errors or warnings.*
+![Screenshot Test Suite All Test Case](https://github.com/Tegar709/reqressApi-Withkatalon1/blob/1d12b8fb306c7f64af1b2ac56003e45f82c32b0d/Screenshot/Test%20Suite%20All%20Test%20Case.png)  *This screenshot illustrates the overall test results, highlighting key metrics such as pass/fail rates and any notable errors or warnings.*
 
