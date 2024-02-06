@@ -16,11 +16,11 @@ This project tests the user management functionalities of the Reqress API using 
 
 ## Tested API Endpoints
 
-* **Delete User:** Tests deletion of users based on valid IDs, handles error cases.
-* **Get User:** Retrieves user information for valid IDs, validates returned data.
-* **Get Resources:** Fetches resources associated with users, tests filtering and pagination.
+* **Delete User:** Tests deletion of users based on valid IDs.
+* **Get User:** Retrieves user information for valid IDsa.
+* **Get Resources:** Fetches resources associated with users.
 * **Post User:** Creates new users with various data, verifies successful registration.
-* **Put User:** Updates existing user information, handles partial updates and errors.
+* **Put User:** Updates existing user information.
 * **Register User:** Tests user registration flow with different credentials and validations.
 * **Login User:** Authenticates users with valid credentials, handles invalid login attempts.
 
