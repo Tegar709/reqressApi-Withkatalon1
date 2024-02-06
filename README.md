@@ -5,7 +5,8 @@ Muhammad Tegar Firmansyah
 
 I'm passionate about Quality Assurance and enjoy exploring new technologies and challenges.
 
-* LinkedIn: [Muhammad Tegar Firmansyah](https://glints.com/id/en/opportunities/jobs/qa-tester-staff-manual/3846621a-2f1b-4fe0-8554-1f7b2166aaf7) [fa-linkedin]
+[![LinkedIn](https://img.shields.io/badge/-Muhammad%20Humam%20Zaky-white?style=for-the-badge&logo=linkedin&logoColor=blue)]([https://www.linkedin.com/in/muhammad-humam-zaky-139369170/](https://www.linkedin.com/in/muhtegar709/))
+[![GitHub](https://img.shields.io/badge/-Muhammad%20Humam%20Zaky-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Tegar709)
 
 Feel free to connect with me !
 
