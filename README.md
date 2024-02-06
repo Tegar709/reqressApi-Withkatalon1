@@ -1,4 +1,13 @@
 # Katalon API Testing Project
+## About Me
+
+Muhammad Tegar Firmansyah 
+
+I'm passionate about Quality Assurance and enjoy exploring new technologies and challenges.
+
+* LinkedIn: [Muhammad Tegar Firmansyah](https://glints.com/id/en/opportunities/jobs/qa-tester-staff-manual/3846621a-2f1b-4fe0-8554-1f7b2166aaf7) [fa-linkedin]
+
+Feel free to connect with me !
 
 ## Overview
 
